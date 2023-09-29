@@ -1,0 +1,17 @@
+# exclude idea files
+.idea
+.idea/
+.idea/**
+
+# exclude gradle files
+.gradle
+.gradle/
+.gradle/**
+
+build
+build/
+build/**
+
+gradle
+gradle/
+gradle/**

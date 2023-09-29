@@ -1,0 +1,26 @@
+<users>
+  <user>
+    <userName>anatolii</userName>
+    <email>anatolii@gmail.com</email>
+    <roles>
+      <role>
+        <name>user</name>
+        <description>read-only mode</description>
+      </role>
+      <role>
+        <name>dba</name>
+        <description>database mode</description>
+      </role>
+    </roles>
+  </user>
+  <user>
+    <userName>sera</userName>
+    <email>sera@gmail.com</email>
+    <roles>
+      <role>
+        <name>admin</name>
+        <description>admin mode</description>
+      </role>
+    </roles>
+  </user>
+</users>
