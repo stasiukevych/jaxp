@@ -1,4 +1,4 @@
-package sax;
+package model;
 
 import java.util.Objects;
 

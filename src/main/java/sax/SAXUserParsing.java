@@ -7,11 +7,13 @@ import java.util.List;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
+import model.Role;
+import model.User;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-public class UserParsing extends DefaultHandler {
+public class SAXUserParsing extends DefaultHandler {
 
   private User user;
   private Role role;
